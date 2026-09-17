@@ -1,4 +1,4 @@
-# AI-image
+# AI-image-Generator
 为了方便调用GPT image-2和2.5的生成图工具，只需要填写对应的api_key和接口地址即可调用image模型了，去除了繁琐的终端模式。
 
 我已经将python 代码打包成了exe程序，只要运行exe程序即可使用软件。
