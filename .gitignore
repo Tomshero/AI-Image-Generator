@@ -1,0 +1,8 @@
+# 本地密钥与产物，切勿提交
+config.json
+images/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
